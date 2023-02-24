@@ -1,0 +1,8 @@
+header-includes:
+  - \usepackage{xunicode} 
+  - \usepackage{xltxtra}
+  - \defaultfontfeatures{Scale=MatchLowercase} 
+  - \setmainfont[Scale=2.0]{Angsana New} 
+  - \XeTeXlinebreaklocale "th"  
+  - \XeTeXlinebreakskip = 0pt plus 1pt 
+geometry: margin=2cm
